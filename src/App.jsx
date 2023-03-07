@@ -5,7 +5,7 @@ import Bunch from "./pages/Bunch";
 import Register from "./pages/Register";
 
 const App = () => {
-  return <Register />;
+  return <Home />;
 };
 
 export default App;
